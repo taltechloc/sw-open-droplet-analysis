@@ -1,0 +1,3 @@
+Empty Droplet
+Droplet with single cell
+Droplet with multiple cells
